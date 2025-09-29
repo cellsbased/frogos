@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Typora
+Name=Zettlr
 GenericName=Markdown Editor
-Exec=typora --enable-wayland-ime %U
-Icon=typora
+Exec=zettlr --enable-wayland-ime %U
+Icon=zettlr
 Type=Application
 StartupNotify=true
 Categories=Office;WordProcessor;
